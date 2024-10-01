@@ -1,9 +1,7 @@
-AI-Based Prediction of Aluminium Wire Rod Properties
 This repository contains a synthetic dataset developed for the prediction of physical properties of aluminum wire rods, such as Ultimate Tensile Strength (UTS), elongation, and electrical conductivity. The dataset is designed to help machine learning practitioners and researchers in the field of materials science and manufacturing optimize the production of aluminum wire rods.
 
-Dataset Overview
+Dataset Overview:
 The synthetic dataset simulates the casting and rolling parameters involved in aluminum wire rod production, including:
-
 Casting Temperature (°C)
 Rolling Speed (m/min)
 Cooling Rate (°C/s)
@@ -33,6 +31,3 @@ Getting Started
 Download the Dataset: You can download the dataset from this repository here.
 Use in Machine Learning Models: Import the dataset into your preferred machine learning framework (e.g., TensorFlow, PyTorch, or Scikit-learn) and start training models to predict the properties of aluminum wire rods based on production parameters.
 
-
-git clone https://github.com/yourusername/Aluminum-Wire-Rod-Properties-Dataset.git
-cd Aluminum-Wire-Rod-Properties-Dataset
